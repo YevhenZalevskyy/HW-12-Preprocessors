@@ -1,0 +1,68 @@
+.row {
+  margin: 0;
+}
+
+.btn {
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.btn-sm {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 12px;
+}
+
+.btn-secondary, .btn-sm {
+  background: #111B47;
+}
+
+.btn-lg {
+  width: 190px;
+  margin-right: 30px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+body {
+  font-family: Roboto;
+}
+
+h2, h3, h4 {
+  color: #091133;
+  font-style: normal;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 50px;
+  line-height: 66px;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+h4 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+p {
+  color: #6F7CB2;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.btn-outline-secondary {
+  color: #091133;
+  border-color: #091133;
+}
+
+/*# sourceMappingURL=theme.css.map */
